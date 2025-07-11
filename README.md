@@ -4,7 +4,6 @@
 本项目是一个基于 PyQt6、faster-whisper、CUDA/cuDNN 的本地同声传译工具，支持实时语音识别与翻译，适合会议、直播、学习等多场景使用。
 支持多种模型（base/small/medium/large），可自定义音频输入、降噪、历史记录等功能。
 
-下载链接：https://www.123865.com/s/6MwiVv-wEi4H提取码:5plq
 
 主要特性
 本地运行，无需联网，保护隐私
